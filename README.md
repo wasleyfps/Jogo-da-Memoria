@@ -4,7 +4,7 @@
 
 ## 🔥 Introdução
 
-Projeto desenvolvido durante o curso Explorer da Rocketseat, ao final do módulo de JavaScript, com o intuito de colocar em prática o conteúdo aprendido.
+"O 'Jogo da Memória' é um projeto empolgante e desafiador desenvolvido com JavaScript, HTML e CSS. Nele, os jogadores têm a oportunidade de testar e aprimorar suas habilidades de concentração e memória enquanto se divertem. Com uma interface visualmente atrativa, criada com HTML e estilizada usando CSS para oferecer uma experiência agradável, o jogo cativa os participantes desde o primeiro momento.
 
 ### ⚙️ Conteúdo
 
