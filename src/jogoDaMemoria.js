@@ -1,7 +1,6 @@
 
 class JogoDaMemoria {
 
-
   constructor({ tela, util }) {
     this.tela = tela
     this.util = util
@@ -103,6 +102,7 @@ class JogoDaMemoria {
   }
 
 }
+
 
 
 
