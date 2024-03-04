@@ -65,6 +65,7 @@ class JogoDaMemoria {
         break;
     }
   }
+  
   mostrarHeroisEscondidos() {
     const heroisEscondidos = this.heroisEscondidos
     for (const heroi of heroisEscondidos) {
@@ -73,6 +74,7 @@ class JogoDaMemoria {
     }
     this.tela.atualizarImagens(heroisEscondidos)
   }
+
   async embaralhar() {
     const copias = this.heroisIniciais
 
@@ -94,7 +96,7 @@ class JogoDaMemoria {
 
     this.esconderHerois(copias)
     this.tela.exibirCarregando(false)
-
+    
   }
 
   jogar() {
