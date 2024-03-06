@@ -1,4 +1,3 @@
-
 class JogoDaMemoria {
 
   constructor({ tela, util }) {
@@ -65,7 +64,7 @@ class JogoDaMemoria {
         break;
     }
   }
-  
+
   mostrarHeroisEscondidos() {
     const heroisEscondidos = this.heroisEscondidos
     for (const heroi of heroisEscondidos) {
@@ -96,7 +95,7 @@ class JogoDaMemoria {
 
     this.esconderHerois(copias)
     this.tela.exibirCarregando(false)
-    
+
   }
 
   jogar() {
@@ -104,7 +103,3 @@ class JogoDaMemoria {
   }
 
 }
-
-
-
-
